@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Muhammad Muhsin b. Faridul Atras]
 
-<!--
-**Muhsi125/Muhsi125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[I'm a Computer Science student at UiTM interested in everything Computers.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: [Computer Science], UiTM
+- Currently learning: [Special Topics in Computer Science]
+- My FYP area: [Natural language Processing]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[C++, Java, R studio, Excel]
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: [2024250384@student.uitm.edu.my]
+
