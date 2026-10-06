@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Muhsin b. Faridul Atras]
+# Hi, I'm Muhammad Muhsin bin Faridul Atras
 
 [I'm a Computer Science student at UiTM interested in everything Computers.]
 
